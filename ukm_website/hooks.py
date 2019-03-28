@@ -121,6 +121,4 @@ app_license = "MIT"
 # }
 
 #custom hook
-website_context = {
-  'footer': 'Punia Online'
-}
+
