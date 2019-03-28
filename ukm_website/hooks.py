@@ -35,7 +35,7 @@ app_license = "MIT"
 # ----------
 
 # application home page (will override Website Settings)
- home_page = "punia-index"
+ home_page = "index"
 
 # website user home page (by Role)
 # role_home_page = {
@@ -120,3 +120,8 @@ app_license = "MIT"
 # 	"frappe.desk.doctype.event.event.get_events": "ukm_website.event.get_events"
 # }
 
+#custom hook
+website_context = {
+  'footer': 'Punia Online'
+  'site_config_context_variable": "This is foo.bar!'
+}
