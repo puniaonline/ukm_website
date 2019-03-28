@@ -123,5 +123,4 @@ app_license = "MIT"
 #custom hook
 website_context = {
   'footer': 'Punia Online'
-  'site_config_context_variable": "This is foo.bar!'
 }
