@@ -41,6 +41,9 @@ app_license = "MIT"
 # role_home_page = {
 #	"Role": "home_page"
 # }
+role_home_page = {
+    "Guest": "test"
+}
 
 # Website user home page (by function)
 # get_website_user_home_page = "ukm_website.utils.get_home_page"
